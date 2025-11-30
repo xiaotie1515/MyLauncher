@@ -1,2 +1,82 @@
-# MyLauncher
-Hi! I'm a middle school student in China. This is my FIRST PROJECT to create a Android Launcher app.
+# MyLauncher - 我的第一个Android启动器项目
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📱 项目介绍
+
+嗨！我是一名中国的中学生，这是我的**第一个项目** - 一个自定义的Android启动器应用！
+
+这个项目是我学习Android开发的起点，目标是创建一个简单但功能完整的手机桌面启动器。
+
+## ✨ 功能特点
+
+- 🏠 自定义主屏幕布局
+- 📱 应用抽屉管理
+- 🎨 简单的主题定制
+- ⚡ 轻量级设计
+- 🔧 基础设置选项
+
+## 🛠️ 技术栈
+
+- **语言**: Kotlin
+- **平台**: Android
+- **工具**: Android Studio
+- **版本控制**: Git & GitHub
+
+## 🚀 开始使用
+
+### 系统要求
+- Android 5.0 (API 21) 或更高版本
+- 至少 50MB 可用存储空间
+
+### 安装步骤
+1. 下载最新的 APK 文件
+2. 在Android设备上安装
+3. 在设置中将"MyLauncher"设为默认启动器
+4. 享受你的新桌面体验！
+
+## 📁 项目结构
+MyLauncher/
+├── app/
+│ ├── src/main/
+│ │ ├── java/com/xiaodi/mylauncher/
+│ │ ├── res/
+│ │ └── AndroidManifest.xml
+│ └── build.gradle
+├── gradle/
+└── README.md
+
+## 🤝 贡献指南
+
+虽然这是我的个人学习项目，但欢迎提出建议！如果你有任何想法：
+
+1. Fork 这个项目
+2. 创建你的功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 开启一个 Pull Request
+
+## 📝 学习笔记
+
+作为中学生开发者，我会在这个项目中记录我的学习过程：
+- Android基础组件学习
+- Kotlin编程实践
+- UI/UX设计初探
+- GitHub协作流程
+
+## 📄 许可证
+
+这个项目使用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 📞 联系我
+
+如果你也是学生开发者，或者想给我一些鼓励和建议，欢迎交流！
+
+- **GitHub**: [xiaotie1515](https://github.com/小弟1515)
+- **项目链接**: https://github.com/xiaotie1515/MyLauncher
+
+---
+
+⭐ 如果这个项目对你有启发，请给我一个star！这对我这个中学生开发者是很大的鼓励！
